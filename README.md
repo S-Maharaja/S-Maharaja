@@ -14,7 +14,7 @@
 - 🔭 Currently building **AI-Powered Interview Coach**
 - 🕵️ Developing **ModusMapping – AI Criminal Pattern Analysis**
 - ⚡ Passionate about AI, IoT & Scalable Systems  
-- 🎯 Goal: Build impactful AI-driven products  
+- 🎯 Goal: Build impactful AI-driven AI products  
 
 ---
 
@@ -51,20 +51,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=S-Maharaja&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=S-Maharaja&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Maharaja&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Maharaja&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Maharaja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Maharaja)](https://github.com/S-Maharaja/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=S-Maharaja&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=S-Maharaja&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=S-Maharaja&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Competitive Programming Journey
+
+- 🟢 LeetCode Active Since: **2024**
+- 🔵 LinkedIn Active Since: **2023**
+- 📊 Focused on DSA, Problem Solving & Interview Preparation
+
+<p align="center">
+  <a href="https://leetcode.com/maharaja22/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/maha-raja-a844b0290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -72,9 +89,6 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:splmaharaja8838@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
