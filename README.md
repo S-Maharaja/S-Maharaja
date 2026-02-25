@@ -53,10 +53,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-Maharaja&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Maharaja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+</p> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Maharaja)](https://github.com/S-Maharaja/github-readme-stats)
 
 ---
 
