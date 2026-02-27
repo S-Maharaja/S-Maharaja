@@ -75,6 +75,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
+</p>
 
 ---
 
