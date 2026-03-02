@@ -1,5 +1,7 @@
 <!-- Animated Intro -->
+<p align = "center">
 <img src="https://github.com/S-Maharaja/S-Maharaja/blob/main/Profile%20Photo.jpeg" width="200" />
+</p>
 <h1 align="center">Hi 👋, I'm Maha Raja</h1>
 <h3 align="center">🚀 AI Developer | Full Stack Engineer | Problem Solver</h3>
 
