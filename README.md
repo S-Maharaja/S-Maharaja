@@ -8,6 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Developer;Hackathon+Winner;Building+Real+World+Solutions" />
 </p>
+<p align="center">
+  <img src = ""/>
+</p>
 
 ---
 
