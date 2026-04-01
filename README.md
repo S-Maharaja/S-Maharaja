@@ -67,6 +67,14 @@
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 ## 📈 Competitive Programming Journey
 
 - 🟢 LeetCode Active Since: **2024**
@@ -81,17 +89,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
-</p>
+</p> -->
 
 ---
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
 
 ## 🌍 Connect With Me
 
